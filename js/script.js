@@ -9,4 +9,16 @@
         $('.slide').eq(clickedIndex).addClass('active');
         
         });
+
+    // $('.twitter-share-button').hover(function(){
+    //     $(this).animate({
+    //         'font-size':'35px'
+    //     }, 300);
+        
+    //     },
+    //     function(){
+    //     $(this).animate({
+    //         'font-size':'24px'
+    //     }, 300);
+    //     });
     });
